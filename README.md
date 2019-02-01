@@ -1,0 +1,4 @@
+- Klona
+- npm install'a
+- npm run dev'a
+- Koda
